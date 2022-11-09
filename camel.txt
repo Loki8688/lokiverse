@@ -1,0 +1,5 @@
+camel
+hulk
+smoker 
+fox
+psycho
